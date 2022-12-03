@@ -1,0 +1,15 @@
+D:\Programming\AOC\D3\bin\Debug\net6.0\D3.exe
+D:\Programming\AOC\D3\bin\Debug\net6.0\D3.deps.json
+D:\Programming\AOC\D3\bin\Debug\net6.0\D3.runtimeconfig.json
+D:\Programming\AOC\D3\bin\Debug\net6.0\D3.dll
+D:\Programming\AOC\D3\bin\Debug\net6.0\D3.pdb
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.csproj.AssemblyReference.cache
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.AssemblyInfoInputs.cache
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.AssemblyInfo.cs
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.csproj.CoreCompileInputs.cache
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.dll
+D:\Programming\AOC\D3\obj\Debug\net6.0\refint\D3.dll
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.pdb
+D:\Programming\AOC\D3\obj\Debug\net6.0\D3.genruntimeconfig.cache
+D:\Programming\AOC\D3\obj\Debug\net6.0\ref\D3.dll
