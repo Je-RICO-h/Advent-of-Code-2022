@@ -4,7 +4,6 @@ It's diverse a little bit, because i know multiple programming languages and i w
 
 ## Languages you will see here (Not every puzzle is equally distributed, depends on my mood)
   - Java
-  - C/CPP
   - C#
   - Python
   
